@@ -1,0 +1,24 @@
+body{
+    background: hsl(0, 0%, 100%);
+    transition: .5s ease;
+}
+.bg{
+    background: hsl(227, 47%, 96%);
+    transition: .5s ease;
+}
+.sm-link{
+    color: hsl(228, 12%, 44%);
+    transition: .5s ease;
+}
+h2{
+    color:#000;
+    transition: .5s ease;
+}
+.list h3{
+    color:#000;
+    transition: .5s ease;
+}
+h5, h3, h6{
+    color:hsl(228, 12%, 44%);
+    transition: .5s ease;
+}
